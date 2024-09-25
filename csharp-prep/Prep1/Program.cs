@@ -7,10 +7,10 @@ class Program
     static void Main(string[] args)
     {
 
-        Console.WriteLine("What is your First Name: ");
+        Console.WriteLine("What is your First Name? ");
         string FirstName = Console.ReadLine();
 
-        Console.WriteLine("What is yor LastName: ");
+        Console.WriteLine("What is yor LastName? ");
         string LastName = Console.ReadLine();
 
 
